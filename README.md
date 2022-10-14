@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zakariaelougui
-- 👀 I’m interested in React js and Go
-- 🌱 I’m currently learning Next js
+- 👀 I’m interested in React, Vue, Typescript and Go
 - 💞️ I’m looking to collaborate on Web applications and mobile apps with React Native
 - 📫 You can contact me here if you want
 
